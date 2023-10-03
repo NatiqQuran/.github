@@ -1,6 +1,6 @@
 # Natiq
 
-![Natiq logo on header](header.png "Natiq")
+![Natiq logo on header](/profile/header.png "Natiq")
 
 ## Natiq Quran
 
