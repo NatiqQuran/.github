@@ -4,8 +4,7 @@
 
 ## Natiq Quran
 
-- [Natiq](https://natiq.net)
-- [Natiq PWA](https://pwa.natiq.net)
+- [Natiq main app](https://natiq.net)
 - [Natiq control panel](https://control.natiq.net)
 - [Developer documentation](https://developer.natiq.net)
 
