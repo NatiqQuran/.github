@@ -5,7 +5,7 @@
 ## Natiq Quran
 
 - WebSite: [Natiq Web App](https://natiq.net) - [Control panel](https://control.natiq.net)
-- GitHub: [PWA](https://github.com/NatiqQuran/nq-pwa) - [Control](https://github.com/NatiqQuran/nq-control)
+- GitHub: [Next.js](https://github.com/NatiqQuran/nq-next) - [React](https://github.com/NatiqQuran/nq-pwa) - [Control](https://github.com/NatiqQuran/nq-control)
 
 **Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
 
