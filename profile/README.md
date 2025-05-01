@@ -14,7 +14,7 @@ Natiq Quran RESTful Open API.
 
 - WebSite: [Developer Docs](https://developer.natiq.net)
 - NPM: [SDK](https://www.npmjs.com/package/@ntq/sdk)
-- Docker: [API](https://hub.docker.com/natiqquran/nq-api)
+- Docker: [API](https://hub.docker.com/r/natiqquran/nq-api)
 - GitHub: [SDK](https://github.com/NatiqQuran/nq-sdk) - [API](https://github.com/NatiqQuran/nq-api) - [Scripts](https://github.com/NatiqQuran/nq-scripts)
 
 ## Yakad
