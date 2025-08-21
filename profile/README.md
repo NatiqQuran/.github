@@ -19,7 +19,7 @@
 ### RESTful API
 - [Developer Docs](https://developer.natiq.net)
 - SDK:
-  - NPM Package: [@ntq/sdk](https://www.npmjs.com/package/@ntq/sdk)
+  - [NPM Package: @ntq/sdk](https://www.npmjs.com/package/@ntq/sdk)
 - [DockerHub](https://hub.docker.com/r/natiqquran/nq-api)
 - [GitHub Repo](https://github.com/NatiqQuran/natiq-api)
 
