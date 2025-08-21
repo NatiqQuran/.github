@@ -2,14 +2,13 @@
 
 ![Natiq logo on header](/profile/header.png "Natiq")
 
-# Natiq Quran
-
+Websites:
 - [Natiq](https://natiq.net)
 - [Natiq Offline](https://offline.natiq.net)
 
 **Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
 
-## 1. Natiq
+## 1. Natiq Quran
 
 ### Frontend
 - [Natiq](https://natiq.net)
@@ -34,16 +33,16 @@
 - [Account center](https://account.natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/account-frontend)
 
-# Side Projects
+## Side Projects
 
-## 1. SDK Generator
+### 1. SDK Generator
 - [GirHub Repo](https://github.com/NatiqQuran/sdk-generator)
 
-## 2. Forced alignment
+### 2. Forced alignment
 - [DockerHub](https://hub.docker.com/r/natiqquran/forced-alignment)
 - [GitHub Repo](https://github.com/NatiqQuran/sdk-generator)
 
-## 3. Yakad - UI/UX framework
+### 3. Yakad - UI/UX framework
 - [Docs](https://yakad.natiq.net)
 - NPM Packages:
   - [@yakad/ui](https://www.npmjs.com/package/@yakad/ui)
@@ -53,7 +52,7 @@
 - [Yakad GitHub Repo](https://github.com/NatiqQuran/yakad)
 - [Yakad Docs GitHub Repo](https://github.com/NatiqQuran/yakad-docs)
 
-## 4. Qamar
+### 4. Qamar
 - [Docs](https://qamar.natiq.net)
 - [WordPress Plugin Page](https://wordpress.org/plugins/qamar)
 - [GitHub Repo](https://github.com/NatiqQuran/qamar)
