@@ -4,11 +4,12 @@
 
 # Natiq Quran
 
-- [Natiq](https://natiq.net) - [Natiq Offline](https://offline.natiq.net)
+- [Natiq](https://natiq.net)
+- [Natiq Offline](https://offline.natiq.net)
 
 **Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
 
-## Natiq
+## 1. Natiq
 
 ### Frontend
 - [Natiq](https://natiq.net)
@@ -25,24 +26,24 @@
 - [DockerHub](https://hub.docker.com/r/natiqquran/nq-api)
 - [GitHub Repo](https://github.com/NatiqQuran/natiq-api)
 
-## Natiq Offline
+## 2. Natiq Offline
 - [Natiq Offline](https://offline.natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/natiq-offline)
 
-## Account center
+## 3. Account center
 - [Account center](https://account.natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/account-frontend)
 
-## Side Projects
+# Side Projects
 
-### SDK Generator
+## 1. SDK Generator
 - [GirHub Repo](https://github.com/NatiqQuran/sdk-generator)
 
-### Forced alignment
+## 2. Forced alignment
 - [DockerHub](https://hub.docker.com/r/natiqquran/forced-alignment)
 - [GitHub Repo](https://github.com/NatiqQuran/sdk-generator)
 
-### Yakad - UI/UX framework
+## 3. Yakad - UI/UX framework
 - [Docs](https://yakad.natiq.net)
 - NPM Packages:
   - [@yakad/ui](https://www.npmjs.com/package/@yakad/ui)
@@ -52,7 +53,7 @@
 - [Yakad GitHub Repo](https://github.com/NatiqQuran/yakad)
 - [Yakad Docs GitHub Repo](https://github.com/NatiqQuran/yakad-docs)
 
-### Qamar
+## 4. Qamar
 - [Docs](https://qamar.natiq.net)
 - [WordPress Plugin Page](https://wordpress.org/plugins/qamar)
 - [GitHub Repo](https://github.com/NatiqQuran/qamar)
