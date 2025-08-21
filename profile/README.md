@@ -2,9 +2,7 @@
 
 ![Natiq logo on header](/profile/header.png "Natiq")
 
-Websites:
-- [Natiq](https://natiq.net)
-- [Natiq Offline](https://offline.natiq.net)
+**Websites:** [Natiq](https://natiq.net) - [Natiq Offline](https://offline.natiq.net)
 
 **Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
 
