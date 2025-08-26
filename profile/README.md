@@ -33,14 +33,11 @@
 
 ## Side Projects
 
-### 1. SDK Generator
-- [GirHub Repo](https://github.com/NatiqQuran/sdk-generator)
-
-### 2. Forced alignment
+### 1. Forced alignment
 - [DockerHub](https://hub.docker.com/r/natiqquran/forced-alignment)
 - [GitHub Repo](https://github.com/NatiqQuran/sdk-generator)
 
-### 3. Yakad - UI/UX framework
+### 2. Yakad - UI/UX framework
 - [Docs](https://yakad.natiq.net)
 - NPM Packages:
   - [@yakad/ui](https://www.npmjs.com/package/@yakad/ui)
@@ -50,7 +47,7 @@
 - [Yakad GitHub Repo](https://github.com/NatiqQuran/yakad)
 - [Yakad Docs GitHub Repo](https://github.com/NatiqQuran/yakad-docs)
 
-### 4. Qamar
+### 3. Qamar
 - [Docs](https://qamar.natiq.net)
 - [WordPress Plugin Page](https://wordpress.org/plugins/qamar)
 - [GitHub Repo](https://github.com/NatiqQuran/qamar)
