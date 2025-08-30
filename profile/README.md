@@ -2,34 +2,34 @@
 
 ![Natiq logo on header](/profile/header.png "Natiq")
 
-**Websites:** [Natiq](https://natiq.net) - [Natiq Offline](https://offline.natiq.net)
+**Websites:** [Natiq intro](https://natiq.net) - [Quran app](https://quran.natiq.net)
 
 **Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
 
-## 1. Natiq Quran
-
-### Frontend
-- [Natiq](https://natiq.net)
+## 1. Natiq
+- [Natiq intro](https://natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/natiq-frontend)
 
-### Control panel
-- [Control panel](https://control.natiq.net)
-- [GitHub Repo](https://github.com/NatiqQuran/natiq-control)
-
-### RESTful API
+## 2. Quran
+### Frontend
+- [Natiq quran](https://quran.natiq.net)
+- [GitHub Repo](https://github.com/NatiqQuran/quran-frontend)
+### API
 - [Developer Docs](https://developer.natiq.net)
 - SDK:
   - [NPM Package: @ntq/sdk](https://www.npmjs.com/package/@ntq/sdk)
 - [DockerHub](https://hub.docker.com/r/natiqquran/nq-api)
-- [GitHub Repo](https://github.com/NatiqQuran/natiq-api)
-
-## 2. Natiq Offline
-- [Natiq Offline](https://offline.natiq.net)
-- [GitHub Repo](https://github.com/NatiqQuran/natiq-offline)
+- [GitHub Repo](https://github.com/NatiqQuran/quran-api)
 
 ## 3. Account center
-- [Account center](https://account.natiq.net)
+### Frontend
+- [Natiq account center](https://account.natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/account-frontend)
+
+4.## Control panel
+### Frontend
+- [Control panel](https://control.natiq.net)
+- [GitHub Repo](https://github.com/NatiqQuran/natiq-control)
 
 ## Side Projects
 
