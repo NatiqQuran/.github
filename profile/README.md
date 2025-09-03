@@ -1,4 +1,4 @@
-# Natiq
+# Natiq Foundation
 
 ![Natiq logo on header](/profile/header.png "Natiq")
 
@@ -7,7 +7,7 @@
 **Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
 
 ## 1. Natiq
-- [Natiq intro](https://natiq.net)
+- [Natiq](https://natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/natiq-frontend)
 
 ## 2. Quran
@@ -23,12 +23,12 @@
 
 ## 3. Account center
 #### Frontend
-- [Natiq account center](https://account.natiq.net)
+- [Natiq account](https://account.natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/account-frontend)
 
 ## 4. Control panel
 #### Frontend
-- [Control panel](https://control.natiq.net)
+- [Control](https://control.natiq.net)
 - [GitHub Repo](https://github.com/NatiqQuran/natiq-control)
 
 ## Side Projects
