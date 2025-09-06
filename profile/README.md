@@ -8,34 +8,34 @@
 
 ## 1. Natiq
 - [Natiq](https://natiq.net)
-- [GitHub Repo](https://github.com/NatiqQuran/natiq-frontend)
+- [GitHub Repo](https://github.com/natiq-foundation/natiq-frontend)
 
 ## 2. Quran
 #### Frontend
 - [Natiq quran](https://quran.natiq.net)
-- [GitHub Repo](https://github.com/NatiqQuran/quran-frontend)
+- [GitHub Repo](https://github.com/natiq-foundation/quran-frontend)
 #### API
 - [Developer Docs](https://developer.natiq.net)
 - SDK:
   - [NPM Package: @ntq/sdk](https://www.npmjs.com/package/@ntq/sdk)
-- [DockerHub](https://hub.docker.com/r/natiqquran/nq-api)
-- [GitHub Repo](https://github.com/NatiqQuran/quran-api)
+- [DockerHub](https://hub.docker.com/r/natiq-foundation/nq-api)
+- [GitHub Repo](https://github.com/natiq-foundation/quran-api)
 
 ## 3. Account center
 #### Frontend
 - [Natiq account](https://account.natiq.net)
-- [GitHub Repo](https://github.com/NatiqQuran/account-frontend)
+- [GitHub Repo](https://github.com/natiq-foundation/account-frontend)
 
 ## 4. Control panel
 #### Frontend
 - [Control](https://control.natiq.net)
-- [GitHub Repo](https://github.com/NatiqQuran/natiq-control)
+- [GitHub Repo](https://github.com/natiq-foundation/natiq-control)
 
 ## Side Projects
 
 ### 1. Forced alignment
-- [DockerHub](https://hub.docker.com/r/natiqquran/forced-alignment)
-- [GitHub Repo](https://github.com/NatiqQuran/sdk-generator)
+- [DockerHub](https://hub.docker.com/r/natiq-foundation/forced-alignment)
+- [GitHub Repo](https://github.com/natiq-foundation/sdk-generator)
 
 ### 2. Yakad - UI/UX framework
 - [Docs](https://yakad.natiq.net)
@@ -44,10 +44,12 @@
   - [@yakad/x](https://www.npmjs.com/package/@yakad/x)
   - [@yakad/symbols](https://www.npmjs.com/package/@yakad/symbols)
   - [@yakad/lib](https://www.npmjs.com/package/@yakad/lib)
-- [Yakad GitHub Repo](https://github.com/NatiqQuran/yakad)
-- [Yakad Docs GitHub Repo](https://github.com/NatiqQuran/yakad-docs)
+  - [@yakad/sync](https://www.npmjs.com/package/@yakad/sync)
+- [Yakad GitHub Repo](https://github.com/natiq-foundation/yakad)
+- [Yakad GitHub Repo](https://github.com/natiq-foundation/yakad-template)
+- [Yakad Docs GitHub Repo](https://github.com/natiq-foundation/yakad-docs)
 
 ### 3. Qamar
 - [Docs](https://qamar.natiq.net)
 - [WordPress Plugin Page](https://wordpress.org/plugins/qamar)
-- [GitHub Repo](https://github.com/NatiqQuran/qamar)
+- [GitHub Repo](https://github.com/natiq-foundation/qamar)
