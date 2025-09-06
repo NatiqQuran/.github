@@ -46,7 +46,7 @@
   - [@yakad/lib](https://www.npmjs.com/package/@yakad/lib)
   - [@yakad/sync](https://www.npmjs.com/package/@yakad/sync)
 - [Yakad GitHub Repo](https://github.com/natiq-foundation/yakad)
-- [Yakad GitHub Repo](https://github.com/natiq-foundation/yakad-template)
+- [Yakad Template GitHub Repo](https://github.com/natiq-foundation/yakad-template)
 - [Yakad Docs GitHub Repo](https://github.com/natiq-foundation/yakad-docs)
 
 ### 3. Qamar
